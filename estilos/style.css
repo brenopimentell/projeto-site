@@ -4,11 +4,19 @@
 }
 
 body {
+<<<<<<< Updated upstream
     background-color: rgb(231, 214, 60);
 }
 
 main {
     background-color: rgb(182, 70, 70);
+=======
+    background-color: rgb(201, 157, 243);
+}
+
+main {
+    background-color: white;
+>>>>>>> Stashed changes
     width: 500px;
     margin: auto;
     padding: 10px;
