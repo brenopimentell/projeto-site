@@ -4,11 +4,14 @@
 }
 
 body {
-    background-color: rgb(231, 182, 109);
+    background-color: rgb(242, 243, 154);
 }
 
+.lado {
+    float: right;
+}
 main {
-    background-color: rgb(245, 157, 142);
+    background-color: rgb(250, 232, 232);
     width: 500px;
     margin: auto;
     padding: 10px;
